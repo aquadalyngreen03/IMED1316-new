@@ -1,0 +1,1 @@
+document.querySelecter('my vid').defaultPlayRate = 2;

@@ -28,9 +28,15 @@
       <!-- radio buttons -->
       <strong>Yes or No?</strong><br />
       <input type="radio" name="MyDecision" id="myradio" value="Yes" required />/Yes<br />
-      <input type="radio" name="MyDecision-1" id="myradio" value="No" />/No
+      <input type="radio" name="MyDecision" id="myradio" value="No" />/No
       <br />
 
+      <!-- checkbox -->
+      <strong>Pick all that apply</strong><br />
+      <input type="checkbox" name="MyDecisionCheckbox" id="myCheckbox-yes" value="Yes" required /><label for="myCheckbox-yes"> Yes</label><br />
+      <input type="checkbox" name="MyDecisionCheckbox" id="myCheckbox-no" value="No" /><label for="myCheckbox-no"> No </label>
+
+      <br />
       <input type="select" value="Submit Form" id="submit" />
     </form>
 

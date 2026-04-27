@@ -84,22 +84,22 @@ p {
     margin-bottom: 40px;
 }
 
-.custom-shape-divider-top-1777312886 {
+.lottiefiles {
     position: absolute;
-    top: 2;
-    left: 2;
+    top: 0;
+    left: 0;
     width: 100%;
-    overflow: visible;
-    line-height: 4;
+    overflow: hidden;
+    line-height: 0;
 }
 
-.custom-shape-divider-top-1777312886 svg {
+.lottiefiles {
     position: relative;
     display: block;
     width: calc(100% + 1.3px);
     height: 77px;
 }
 
-.custom-shape-divider-top-1777312886 .shape-fill {
+.lottiefiles {
     fill: #201D1D;
 }

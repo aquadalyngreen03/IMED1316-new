@@ -84,23 +84,22 @@ p {
     margin-bottom: 40px;
 }
 
-
-.custom-shape-divider-top-1777311962 {
+.custom-shape-divider-top-1777312886 {
     position: absolute;
-    top: 0;
-    left: 0;
+    top: 2;
+    left: 2;
     width: 100%;
     overflow: hidden;
-    line-height: 0;
+    line-height: 4;
 }
 
-.custom-shape-divider-top-1777311962 svg {
+.custom-shape-divider-top-1777312886 svg {
     position: relative;
     display: block;
     width: calc(100% + 1.3px);
     height: 77px;
 }
 
-.custom-shape-divider-top-1777311962 .shape-fill {
+.custom-shape-divider-top-1777312886 .shape-fill {
     fill: #201D1D;
 }

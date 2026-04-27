@@ -89,7 +89,7 @@ p {
     top: 2;
     left: 2;
     width: 100%;
-    overflow: hidden;
+    overflow: visible;
     line-height: 4;
 }
 

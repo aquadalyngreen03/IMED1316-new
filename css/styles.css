@@ -84,22 +84,3 @@ p {
     margin-bottom: 40px;
 }
 
-.lottiefiles {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    overflow: hidden;
-    line-height: 0;
-}
-
-.lottiefiles {
-    position: relative;
-    display: block;
-    width: calc(100% + 1.3px);
-    height: 77px;
-}
-
-.lottiefiles {
-    fill: #201D1D;
-}

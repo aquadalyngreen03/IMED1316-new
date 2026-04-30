@@ -84,4 +84,22 @@ p {
     margin-bottom: 40px;
 }
 
+.custom-shape-divider-top-1777511049 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
 
+.custom-shape-divider-top-1777511049 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 69px;
+}
+
+.custom-shape-divider-top-1777511049 .shape-fill {
+    fill: #676798;
+}
